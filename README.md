@@ -29,6 +29,7 @@ Other options and features include:
 - Choosing whether or not you have the Shiny Charm.
 - Choosing whether or not you are hunting on multiple systems, as well as the amount of systems.
 - Selecting any Pokémon from Generations 1-8 as your target Pokémon.
+- Choosing whether or not this is a previous hunt from before Sparkle was installed. (you will be asked to enter the number of encounters/phases)
 - Choosing whether or not you wish to use Streamer Mode (more below).
 - Small Files (more below).
 
