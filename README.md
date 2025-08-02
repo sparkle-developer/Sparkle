@@ -13,6 +13,8 @@ https://www.java.com/en/download/manual.jsp
 
 This program allows you to choose from Generations 2-8, along with a variety of Shiny Hunting methods, including:
 - Random Encounters
+- Run Aways
+- Headbutts (Generation 2 and 4)
 - Soft Resetting
 - Shiny Breeding (Generation 2)
 - Masuda Method (Generation 4 and onwards)
@@ -24,13 +26,15 @@ This program allows you to choose from Generations 2-8, along with a variety of 
 - SOS Battles (Generation 7)
 - Dynamax Adventures (Generation 8)
 - Brilliant Pokémon (Generation 8)
+- Grand Underground (Generation 8)
 
 Other options and features include:
 - Choosing whether or not you have the Shiny Charm.
 - Choosing whether or not you are hunting on multiple systems, as well as the amount of systems.
 - Selecting any Pokémon from Generations 1-8 as your target Pokémon.
 - Choosing whether or not this is a previous hunt from before Sparkle was installed. (you will be asked to enter the number of encounters/phases)
-- Choosing whether or not you wish to use Streamer Mode (more below).
+- Choosing between Standard, Buttonless, and Streamer Mode. (more below)
+- Choosing the color of the text in the program.
 - Small Files (more below).
 
 Once you have selected all of these prerequisites, the main GUI opens. The information on the GUI is as follows:
@@ -44,9 +48,9 @@ Once you have selected all of these prerequisites, the main GUI opens. The infor
 - Phase: Adds a face to the counter if you found a Shiny different from your target.
 - Done!: Stops the timer, displays a congratulatory message, and disables the +, - and Done! buttons.
 
-## Streamer Mode
+## Buttonless Mode
 
-Streamer Mode allows for a smaller screen by removing the +, -, Pause, Phase and Done! buttons, and instead instead opts to use key binds instead. This is perfect for if you wish to use Sparkle as a counter while streaming, as it will take up less room on your display.
+Buttonless Mode allows for a smaller screen by removing the +, -, Pause, Phase and Done! buttons, and instead instead opts to use key binds instead.
 
 The key binds for Streamer Mode are as follows: 
 - Plus Key: + Button
@@ -54,6 +58,10 @@ The key binds for Streamer Mode are as follows:
 - Space Bar: Pause Button
 - P Key: Phase Button
 - Enter Key: Done! Button
+
+## Streamer Mode
+
+Streamer Mode is the same as buttonless mode, but makes the background of the program transparent. This is perfect for if you wish to use Sparkle as a counter while streaming, as it will take up less room on your display.
 
 ## Small Files
 
