@@ -1,8 +1,8 @@
 # Welcome to Sparkle, a Shiny Hunting tool!
 
-This program requires Java Runtime Environment (JRE) to run. It can be downloaded here:
+This program requires Java Development Kit 24 (JDK 24) to run. It can be downloaded here:
 
-https://www.java.com/en/download/manual.jsp
+https://www.oracle.com/java/technologies/downloads/
 
 ## Install Guide:
 - Click on the green "Code" button and select "Download ZIP".
