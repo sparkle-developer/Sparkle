@@ -35,6 +35,7 @@ Other options and features include:
 - Choosing whether or not this is a previous hunt from before Sparkle was installed. (you will be asked to enter the number of encounters/phases)
 - Choosing between Standard, Buttonless, and Streamer Mode. (more below)
 - Choosing the color of the text in the program.
+- Always Focus mode (more below).
 - Small Files (more below).
 
 Once you have selected all of these prerequisites, the main GUI opens. The information on the GUI is as follows:
@@ -63,6 +64,10 @@ The key binds for Streamer Mode are as follows:
 
 Streamer Mode is the same as buttonless mode, but makes the background of the program transparent. This is perfect for if you wish to use Sparkle as a counter while streaming, as it will take up less room on your display.
 
+## Always Focus Mode
+
+Always Focus mode is a feature for the Buttonless and Streamer modes that allows for adding and subtracting of encounters without the windows being in focus. This is especially useful for controlling multiple hunts at once. Be careful though, as pressing the + and - keys anywhere outside of the program will add or subtract encounters.
+
 ## Small Files
 
 Small Files are .txt files that update any time encounters are added or subtracted, and contain only the number of encounters, allowing for a more traditional display via OBS.
@@ -72,5 +77,6 @@ I hope you enjoy using the program!
 ## Special Thanks:
 - The r/ShinyPokemon Discord
 - Apache Commons (Math Library)
+- kwhat (JNativeHook)
 - msikma (PokéSprite)
 - Jackster Productions (Pokémon GB Font)
