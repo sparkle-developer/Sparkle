@@ -1,8 +1,8 @@
 # Welcome to Sparkle, a Shiny Hunting tool!
 
-This program requires Java Development Kit 24 (JDK 24) to run. It can be downloaded here:
+This program requires Java Runtime Environment (JRE) to run. It can be downloaded here:
 
-https://www.oracle.com/java/technologies/downloads/
+https://www.java.com/en/download/manual.jsp
 
 ## Install Guide:
 - Click on the green "Code" button and select "Download ZIP".
@@ -38,10 +38,15 @@ Other options and features include:
 - Always Focus mode (more below).
 - Small Files (more below).
 
-Once you have selected all of these prerequisites, the main GUI opens. The information on the GUI is as follows:
-- Encounters: Displays the number of encounters you have had with your target Pokémon.
+## Standard Mode
+
+Once you have selected all of these aforementioned prerequisites, the main GUI opens. The information on the GUI is as follows:
+- Current Phase: Displays the number of encounters you have had on your current phase.
 - +: Increments the Encounters counter by the number of systems you have entered. (by default, this is set to 1)
 - -: Decrements the Encounters counter by the number of systems you have entered. (by default, this is set to 1)
+- Total Encounters: Displays the total number of encounters you have had with your target Pokémon.
+- Generation: Displays the generation of Pokémon games you are hunting in.
+- Method: Displays the method you are using to hunt.
 - Odds: The odds of finding a Shiny Pokémon based on your chosen Generation and method.
 - Time Elapsed: The amount of time you have spent hunting your target Pokémon.
 - Binomial Distribution: Calculates the probability of finding the target Pokémon given the number of encounters and the odds.
